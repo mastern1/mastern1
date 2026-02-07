@@ -56,15 +56,6 @@ Currently expanding into **Systems Programming** with **Rust and Linux** to writ
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mastern1&show_icons=true&theme=dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastern1&layout=compact&theme=dark&hide_border=true" height="170" />
-</div>
-
----
-
 ## 📫 Connect
 
 <p align="center">
